@@ -1,4 +1,4 @@
-# ![Geode Logo](https://fran.is-a.dev/xzvibes.png?size=40) XZ Vibes
+# ![Geode Logo](https://fran.is-a.dev/xzvibes.png?size=20) XZ Vibes
 
 **XZ Vibes** is a organization made by xzonix with the objective to boost the projects of @xzonix and https://fran.is-a.dev website.
 ## Get started with XZ Vibes
